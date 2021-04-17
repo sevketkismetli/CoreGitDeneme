@@ -31,6 +31,9 @@ namespace CoreGitDeneme.Controllers
          
         Branch 2 commiti 
 
+
+master branch updated 02:20
+
         */
 
     }
