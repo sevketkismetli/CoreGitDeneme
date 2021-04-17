@@ -13,7 +13,16 @@ namespace CoreGitDeneme.Controllers
     {
 
         public void Test() {
-         string test=   "Deneme 123";
+
+            string test = "Deneme 123";
+
+
+
+            string test = "Deneme 123";
+            string test = "Deneme 123";
+            string test = "Deneme 123";
+
+            string test=   "Deneme 123";
         }
 
     }
