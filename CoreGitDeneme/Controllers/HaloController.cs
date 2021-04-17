@@ -29,6 +29,15 @@ namespace CoreGitDeneme.Controllers
          Bu YeniBranch_1 in commiti
          branch 1 30 satırrrrr
          vs satır 30
+         
+         YeniBranch_1
+         YeniBranch_1YeniBranch_1
+         YeniBranch_1
+         YeniBranch_1
+         YeniBranch_1
+         YeniBranch_1
+         YeniBranch_1YeniBranch_1
+         YeniBranch_1
          */
 
 
