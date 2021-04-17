@@ -11,6 +11,16 @@ namespace CoreGitDeneme.Controllers
     [ApiController]
     public class HaloController : ControllerBase
     {
-        /*haloooooooooo*/
+        /*haloooooooooo
+         
+        hoopppopopopopo
+        wekflsknfkngldkfng
+        xkşlfv
+
+        12112121
+
+        333333
+         
+         */
     }
 }
