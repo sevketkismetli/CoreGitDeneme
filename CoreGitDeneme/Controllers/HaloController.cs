@@ -27,7 +27,9 @@ namespace CoreGitDeneme.Controllers
         /*
          
          Branch 2 commiti 
-         
+        
+        02:17 değişikliği branch 2 de
+
          */
 
     }
