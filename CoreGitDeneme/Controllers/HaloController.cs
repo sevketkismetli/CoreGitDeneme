@@ -27,7 +27,7 @@ namespace CoreGitDeneme.Controllers
         /*
          
          Bu YeniBranch_1 in commiti
-         
+         vs satır 30
          */
 
 
