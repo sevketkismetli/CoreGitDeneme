@@ -11,5 +11,10 @@ namespace CoreGitDeneme.Controllers
     [ApiController]
     public class GitTestController : ControllerBase
     {
+
+        public void Test() {
+         string test=   "Deneme 123";
+        }
+
     }
 }
