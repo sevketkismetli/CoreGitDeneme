@@ -40,6 +40,10 @@ master branch updated 02:20
         02:17 değişikliği branch 2 de
 
          */
+       kardeş bunlar master dan branch 2 ye 
+       hediye geldiii
+       ona göre
+       */
 
     }
 }
