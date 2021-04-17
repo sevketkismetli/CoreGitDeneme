@@ -34,7 +34,10 @@ namespace CoreGitDeneme.Controllers
 
 master branch updated 02:20
 
-        */
+       kardeş bunlar master dan branch 2 ye 
+       hediye geldiii
+       ona göre
+       */
 
     }
 }
