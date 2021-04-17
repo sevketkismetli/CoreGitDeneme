@@ -24,6 +24,8 @@ namespace CoreGitDeneme.Controllers
          
          */
         /*
+        
+        lololo
           Bu YeniBranch_1 in commiti
          
         Branch 2 commiti 
