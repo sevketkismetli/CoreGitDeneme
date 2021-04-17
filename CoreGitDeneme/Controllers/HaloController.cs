@@ -23,13 +23,12 @@ namespace CoreGitDeneme.Controllers
         333333
          
          */
-
         /*
+          Bu YeniBranch_1 in commiti
          
-         Bu YeniBranch_1 in commiti
-         
-         */
+        Branch 2 commiti 
 
+        */
 
     }
 }
