@@ -14,6 +14,7 @@ namespace CoreGitDeneme.Controllers
         /*halooo
           toootoooooooo
         
+
             hoopppopopopopo
         wekflsknfkngldkfng
         xkşlfv
@@ -23,9 +24,17 @@ namespace CoreGitDeneme.Controllers
         333333
          
          */
-
         /*
+        
+        lololo
+          Bu YeniBranch_1 in commiti
          
+        Branch 2 commiti 
+
+
+master branch updated 02:20
+
+        */
          Branch 2 commiti 
         
         02:17 değişikliği branch 2 de
