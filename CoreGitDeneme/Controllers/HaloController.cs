@@ -26,8 +26,11 @@ namespace CoreGitDeneme.Controllers
          */
         /*
         
-        lololo
-          Bu YeniBranch_1 in commiti
+        lololo22222222222222222222225555
+         
+         Bu YeniBranch_1 in commiti
+         branch 1 30 satırrrrr
+         vs satır 30
          
         Branch 2 commiti 
 
@@ -38,6 +41,15 @@ master branch updated 02:20
          Branch 2 commiti 
         
         02:17 değişikliği branch 2 de
+         YeniBranch_1
+         YeniBranch_1YeniBranch_1
+         YeniBranch_1
+         YeniBranch_1
+         YeniBranch_1
+         YeniBranch_1
+         YeniBranch_1YeniBranch_1
+         YeniBranch_1
+         */
 
          */
        kardeş bunlar master dan branch 2 ye 
